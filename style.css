@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 350px;
+    color: aliceblue;
+}
